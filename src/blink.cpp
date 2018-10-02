@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
     Serial.println("Hi");
-    digitalWrite(13,HIGH);
+    digitalWrite(12,HIGH);
     delay(1000);
     digitalWrite(13,LOW); delay(1000);
     //Testing GIT Repository
