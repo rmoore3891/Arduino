@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 void setup() {
-    pinMode(10,OUTPUT); Serial.begin(9600);
+    pinMode(1,OUTPUT); Serial.begin(9600);
 }
 
 void loop() {
